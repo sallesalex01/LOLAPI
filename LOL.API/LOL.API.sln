@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LOL.API", "LOL.API\LOL.API.csproj", "{3E460557-010E-417C-AE9C-4A2F32F1171B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LOL.API.GameData", "LOL.API.GameData\LOL.API.GameData.csproj", "{B850EDAA-ABD9-4646-AE10-370F14B84F29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E460557-010E-417C-AE9C-4A2F32F1171B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E460557-010E-417C-AE9C-4A2F32F1171B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E460557-010E-417C-AE9C-4A2F32F1171B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E460557-010E-417C-AE9C-4A2F32F1171B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B850EDAA-ABD9-4646-AE10-370F14B84F29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B850EDAA-ABD9-4646-AE10-370F14B84F29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B850EDAA-ABD9-4646-AE10-370F14B84F29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B850EDAA-ABD9-4646-AE10-370F14B84F29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1F6E5A7-CA92-4C57-BFFA-7BADF704C19E}
+	EndGlobalSection
+EndGlobal
